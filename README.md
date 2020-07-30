@@ -1,3 +1,5 @@
-# face recognition backend server
+Face Detection fullstack web app. This is the back end portion
 
-Face recognition backend api
+Built using: React, Express, Node and  PostgreSQL
+
+Implemented Clarifai Face Detection model.
